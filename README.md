@@ -6,6 +6,8 @@ I am basing this project to the Bruxelles Formation program for [DevOps Engineer
 - [x] List questions for the upcoming information session.
 - [ ] Summarize the info from information session. Ask questions.
 
+### Reading List
+- [https://www.geeksforgeeks.org/devops/devops-tutorial/](https://www.geeksforgeeks.org/devops/devops-tutorial/)
 ### Table of contents
 1. Fondation et Culture DevOps
    - Introduction DevOps
