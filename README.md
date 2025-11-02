@@ -3,7 +3,8 @@ I am basing this project to the Bruxelles Formation program for [DevOps Engineer
 
 ### To do List
 - [x] Add table of contents.
-- [ ] List questions for the upcoming information session.
+- [x] List questions for the upcoming information session.
+- [ ] Summarize the info from information session. Ask questions.
 
 ### Table of contents
 1. Fondation et Culture DevOps
