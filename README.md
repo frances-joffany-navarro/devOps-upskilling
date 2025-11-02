@@ -33,6 +33,6 @@ I am basing this project to the Bruxelles Formation program for [DevOps Engineer
 9. Monitoring et Observabilité
    - Prometheus / Grafana (métriques et visualisation)
 10. Certification
-   - Préparation et examen blanc
-   - Passage de la certification
+    - Préparation et examen blanc
+    - Passage de la certification
 11. Projet final et présentation devant jury
