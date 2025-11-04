@@ -4,7 +4,15 @@ I am basing this project to the Bruxelles Formation program for [DevOps Engineer
 ### To do List
 - [x] Add table of contents.
 - [x] List questions for the upcoming information session.
-- [ ] Summarize the info from information session. Ask questions.
+- [x] Summarize the info from information session. Ask questions.
+
+### Information Summarize
+DevOps Engineer Training
+- Attended Information session on 4/11/2025
+   - they gave more information about the different trainings that they offer. 
+   - They sent us a link to a form to fill up and list the trainings that I want to do. I receive an email about the online test that is happening on 5/11/2025
+- Online Test on 5/11/2025
+- Motivation Interview around 12/11/2025-13/11/2025
 
 ### Reading List
 - [https://www.geeksforgeeks.org/devops/devops-tutorial/](https://www.geeksforgeeks.org/devops/devops-tutorial/)
