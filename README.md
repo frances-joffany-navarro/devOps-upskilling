@@ -7,7 +7,7 @@ I am basing this project to the Bruxelles Formation program for [DevOps Engineer
 - [x] Summarize the info from information session. Ask questions.
 - [x] Email the Brussels fromation for test result
 - [x] Start taking notes on devops tutorial
-- [ ] What is devOps
+- [x] What is devOps
 
 ### Reading List
 - [https://www.geeksforgeeks.org/devops/devops-tutorial/](https://www.geeksforgeeks.org/devops/devops-tutorial/)
